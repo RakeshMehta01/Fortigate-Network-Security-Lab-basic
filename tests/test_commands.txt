@@ -1,0 +1,48 @@
+# ==============================================================================
+# Quick Reference Verification Commands Cheat Sheet
+# ==============================================================================
+
+# --- FortiGate CLI Commands ---
+show system interface
+get router info routing-table all
+get router info ospf neighbor
+get router info ospf status
+diagnose firewall iprope lookup port2 10.1.10.2 8.8.8.8 1 0 0
+diagnose sys session filter src 10.1.10.2
+diagnose sys session list
+diagnose sniffer packet any "icmp" 4 0 l
+diagnose sniffer packet port4 "port 80" 4 0 l
+
+# --- Cisco LAN-Switch Commands ---
+show ip interface brief
+show vlan brief
+show ip route
+show ip route ospf
+show ip ospf neighbor
+show ip ospf interface brief
+ping 10.1.1.41
+ping 10.1.99.99
+
+# --- Cisco ISP Router Commands ---
+show ip interface brief
+show ip route
+show ip nat translations
+show ip nat statistics
+ping 200.1.1.41
+ping 8.8.8.8
+
+# --- Cisco DMZ Web-Server Commands ---
+show ip interface brief
+show ip route
+show ip http server status
+show ip sockets
+show users
+ping 10.1.99.41
+
+# --- End User VPCS Commands ---
+show ip
+ping 10.1.10.254
+ping 10.1.20.3
+ping 10.1.99.99
+ping 8.8.8.8
+trace 8.8.8.8
