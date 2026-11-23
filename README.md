@@ -190,6 +190,6 @@ Follow the testing instructions in [`docs/05_verification_and_testing.md`](docs/
 **Rakesh Mehta**  
 - **GitHub**: [@RakeshMehta01](https://github.com/RakeshMehta01)  
 - **Repository**: [Fortigate-Network-Security-Lab](https://github.com/RakeshMehta01/Fortigate-Network-Security-Lab)  
-- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com)
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/me-rakesh/)
 
 If you found this project helpful or insightful for your networking & cybersecurity studies, feel free to give this repository a ⭐!
