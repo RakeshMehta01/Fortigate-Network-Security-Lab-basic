@@ -116,7 +116,7 @@ VLAN10 VLAN20 VLAN30                             │  Web-Server  │
 ```
 Fortigate-Network-Security-Lab/
 ├── README.md                                  # Showcase documentation & project blueprint
-├── LINKEDIN_POST.md                           # Ready-to-use LinkedIn post announcements
+announcements
 ├── diagrams/
 │   └── topology.jpg                           # Full high-resolution lab network topology
 ├── docs/
